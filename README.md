@@ -75,4 +75,4 @@ mysql -u root -p student_management < database/03_queries.sql
 - Add role-based access for students, faculty, and administrators.
 
 ## Author
-Add your name, course, institution, and submission date here before publishing.
+Jeel Gandhi, Masters in Science-Data Science, Institute of Advanced Research.
